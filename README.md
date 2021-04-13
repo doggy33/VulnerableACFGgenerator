@@ -6,8 +6,8 @@ The vulnerable function generate from OpenSSL
 
 
 # Usage
-    git clone https://github.com/doggy33/VulnerableACFGgenerator.git `
-    python3 VulnerACFGgenerator.py -f <function_name1,function_name2,...> `
+    git clone https://github.com/doggy33/VulnerableACFGgenerator.git 
+    python3 VulnerACFGgenerator.py -f <function_name1,function_name2,...> 
 
 
 # Example 
