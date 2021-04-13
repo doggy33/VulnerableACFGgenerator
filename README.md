@@ -12,6 +12,7 @@ The vulnerable function generate from OpenSSL
 
 # Example 
     python3 VulnerACFGgenerator.py
+    python3 VulnerACFGgenerator.py -f ASN1_template_free,des_ctrl
 
 
 # Vulnerable Function
