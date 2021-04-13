@@ -5,17 +5,18 @@ The vulnerable function generate from OpenSSL
 
 
 # Usage
-> git clone https://github.com/doggy33/VulnerableACFGgenerator.git
-> python3 VulnerACFGgenerator.py -f <function_name1,function_name2,...>
+` git clone https://github.com/doggy33/VulnerableACFGgenerator.git `
+` python3 VulnerACFGgenerator.py -f <function_name1,function_name2,...> `
 
 
 # Example 
-> python3 VulnerACFGgenerator.py
-> 
+`python3 VulnerACFGgenerator.py`
+
 
 # Vulnerable Function
-> 1. v2i_POLICY_MAPPINGS
-> 2. genrsa_main
-> 3. priv_decode_gost
-> 4. prompt_info
-> 5. ssl3_get_message
+1. v2i_POLICY_MAPPINGS
+2. genrsa_main
+3. priv_decode_gost
+4. prompt_info
+5. ssl3_get_message
+
